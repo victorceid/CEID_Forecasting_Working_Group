@@ -1,0 +1,44 @@
+---
+title: "pipeline"
+author: "Victor Felix"
+date: "2024-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This RMarkdown will be an example of a pipeline based on ARIMA models and on Weighted Intervak Score.
+
+```{r cars}
+# Dataset input
+
+# Model fitting
+
+# Model forecasting
+
+# Model validation
+  
+  # WIS
+
+  # Calculate the quantiles
+  # Calculate the WIS
+
+  # Other methods
+
+
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
